@@ -2,6 +2,7 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("write a test");
+
+    printf('first upload');
     return 0;
 }
