@@ -1,1 +1,2 @@
-#　一个简单计算器，使用QT设计GUI
+# calculator_gui
+A simple calculator application with gui written by CPP and QT
