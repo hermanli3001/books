@@ -1,2 +1,1 @@
-# greedy snake
-A simple greedy snake game write by CPP
+#　一个简单计算器，使用QT设计GUI
